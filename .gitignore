@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Happiness.csv
+Happiness avg.csv
